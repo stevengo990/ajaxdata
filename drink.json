@@ -1,0 +1,24 @@
+{
+  "result": [
+    {
+      "drinkType": "tea",
+      "drinkPrice": 50,
+      "drinkName": "鮮奶茶"
+    },
+    {
+      "drinkType": "juice",
+      "drinkPrice": 80,
+      "drinkName": "綜合果汁"
+    },
+    {
+      "drinkType": "coffee",
+      "drinkPrice": 145,
+      "drinkName": "黑咖啡"
+    },
+    {
+      "drinkType": "soda",
+      "drinkPrice": 35,
+      "drinkName": "汽水"
+    }
+  ]
+}
