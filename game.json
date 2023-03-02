@@ -1,0 +1,33 @@
+[
+  {
+    "title":"肥仔天地GE篇",
+    "articles":[
+      {
+      "type":"遊玩心得",
+      "gameName" :"GE",
+      "gameYear" : 10,
+      "costMoney" :200000,
+        "Info":{
+       "inGameName" : "Adem",
+       "stillGame" :Yes
+        }
+      }
+    ]
+  },  
+    
+  {
+    "title":"肥仔天地傳說篇",
+      "articles":[
+        {
+      "type":"遊玩心得",
+      "gameName" :"傳說",
+      "gameYear" : 4,
+      "costMoney" :20000,
+        "Info":{
+       "inGameName" : "AdemLin",
+       "stillGame" :No
+        }
+    }
+  ]     
+  }
+]
