@@ -1,0 +1,22 @@
+[
+  {
+    "workType": "engineer",
+    "salary": 50000,
+    "workName": "資訊工程師"
+  },
+  {
+    "workType": "product manager",
+    "salary": 43500,
+    "workName": "產品經理"
+  },
+  {
+    "workType": "account",
+    "salary": 43000,
+    "workName": "會計"
+  },
+  {
+    "workType": "storage manger",
+    "salary": 38000,
+    "workName": "倉儲管理員"
+  }
+]
